@@ -16,5 +16,10 @@
     "vaNumber": "00767000113601",
     "namaPenerima": "PT Generali Indonesia"
     }
+  },
+  "reviseInvoice": {
+    "status": "OK",
+    "Token": ""
+    }
   }
 }
