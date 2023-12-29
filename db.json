@@ -20,5 +20,9 @@
   "reviseInvoice": {
     "status": "OK",
     "Token": ""
+    },
+  "settlementInvoice": {
+    "status": "OK",
+    "Token": ""
     }
   }
