@@ -23,6 +23,8 @@
     },
   "settlementInvoice": {
     "status": "OK",
-    "Token": ""
+    "message": "",
+    "data":[],
+    "token":""
     }
   }
