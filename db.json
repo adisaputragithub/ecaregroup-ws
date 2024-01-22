@@ -19,12 +19,34 @@
   },
   "reviseInvoice": {
     "status": "OK",
-    "Token": ""
-    },
+    "message": "Successfully revised invoice.",
+    "data": {
+        "invoiceTypeGroup": "E",
+        "invoiceNo": null,
+        "transactionNo": null,
+        "invoiceType": null,
+        "invoiceTypeDesc": null,
+        "policyNo": null,
+        "groupId": null,
+        "groupName": null,
+        "subGroupId": null,
+        "subGroupName": null,
+        "invoiceDate": null,
+        "dueDate": "1998-12-31T17:00:00.000+00:00",
+        "invoiceStatus": null,
+        "currency": null,
+        "billed": null,
+        "outstanding": null,
+        "invoiceSendingType": null,
+        "agentCode": null,
+        "agentName": null,
+        "reviseInvoiceStatus": "REVISE"
+    }
+},
   "settlementInvoice": {
     "status": "OK",
     "message": "",
     "data":[],
     "token":""
-    }
+    },
   }
