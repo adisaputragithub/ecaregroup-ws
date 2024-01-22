@@ -48,5 +48,31 @@
 		"message": "",
 		"data": [],
 		"token": ""
+	},
+	"reviseInvoice2": {
+		"status": "OK",
+		"message": "Successfully revised invoice.",
+		"data": {
+			"invoiceTypeGroup": "E",
+			"invoiceNo": "00480/DN/01.24/R1",
+			"transactionNo": "EX-2401160001-01",
+			"invoiceType": "EX",
+			"invoiceTypeDesc": "Claim Excess",
+			"policyNo": "00104646",
+			"groupId": "TP002101",
+			"groupName": "test journal top 5",
+			"subGroupId": "SG002755",
+			"subGroupName": "test journal top 5",
+			"invoiceDate": "2024-01-16T04:24:52.133+00:00",
+			"dueDate": "2024-02-15T04:24:52.133+00:00",
+			"invoiceStatus": "OUTSTANDING",
+			"currency": "IDR",
+			"billed": "15000000",
+			"outstanding": "15000000",
+			"invoiceSendingType": "S",
+			"agentCode": "87000024",
+			"agentName": "DENDY PRIANDANA",
+			"reviseInvoiceStatus": "REVISE"
+		}
 	}
 }
